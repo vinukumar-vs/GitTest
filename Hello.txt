@@ -2,8 +2,7 @@ Hello,
 This is the first file created in Git Session.
 
 This session is taking by Rohit at TTPL.
-
-
+This is second line.
 
 
 
